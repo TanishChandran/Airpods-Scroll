@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../portfolio"
+		},
+		{
+			"path": "../../../Downloads/3d-model-main/3d-model-main"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "scroll-animation"
+	}
+}
